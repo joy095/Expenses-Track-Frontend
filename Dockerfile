@@ -22,4 +22,4 @@ COPY --from=build /app/client/dist ./dist
 
 EXPOSE 4173
 
-CMD ["pnpm", "preview", "--host"]
+CMD ["npm", "preview", "--host"]
