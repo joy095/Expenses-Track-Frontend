@@ -3,6 +3,10 @@
 ## 🚀 Live Demo
 - Frontend: [https://expenses-track-frontend.vercel.app](https://expenses-track-frontend.vercel.app)
 
+<br />
+
+<img src="./public/expenses-track.webp" alt="Expenses Track" width="100%">
+
 ## 🛠️ Tech Stack
 - Frontend: React + TypeScript + Vite
 - State Management: Redux Toolkit
